@@ -20,3 +20,4 @@ Fixed the issue of defabricator being overpowered
 Added defabricator to Rose Tyler
 Added Raxacoricofallapatorian Category
 Added Slitheen Job
+Added Blathereen Job
