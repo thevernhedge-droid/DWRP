@@ -18,3 +18,4 @@ Fixed River not regenerating when low health
 Added Defabricator
 Fixed the issue of defabricator being overpowered
 Added defabricator to Rose Tyler
+Added Raxacoricofallapatorian Category
