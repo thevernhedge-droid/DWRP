@@ -1,3 +1,4 @@
 Added Family of Blood Agenda  
 Added The Sit Anywhere Script!
 Added Cyber Controlled Job - A human controlled by the cyber men to do their bidding
+Added Cyber Controlled to Cyber Door group
