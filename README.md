@@ -21,3 +21,4 @@ Added defabricator to Rose Tyler
 Added Raxacoricofallapatorian Category
 Added Slitheen Job
 Added Blathereen Job
+Added Slitheen Spawn
