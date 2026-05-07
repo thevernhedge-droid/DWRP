@@ -7,3 +7,5 @@ Added Cybermen Agenda
 Added Family of blood Agenda 
 Added weapon_cuff_elastic to Cyber Controlled
 Added Companions Category 
+Added Rose Tyler Job
+Added Amy Pond Job
