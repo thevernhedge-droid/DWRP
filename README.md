@@ -12,4 +12,5 @@ Added Amy Pond Job
 Added Fists to Rose Tyler Job
 Added Fists to Amy Pond Job
 Added Amy Pond Job
-Add River Song Job
+Added River Song Job
+Added so River Song can regenerate when low health
