@@ -6,7 +6,7 @@ Fixed  Cyber Controlled having cyber footstep sounds
 Added Cybermen Agenda 
 Added Family of blood Agenda 
 Added weapon_cuff_elastic to Cyber Controlled 
-Added Companions Category 
+Added Companions Category
 Added Rose Tyler Job
 Added Amy Pond Job
 Added Fists to Rose Tyler Job
@@ -14,3 +14,4 @@ Added Fists to Amy Pond Job
 Added Amy Pond Job
 Added River Song Job
 Added so River Song can regenerate when low health
+Fixed River not regenerating when low health
