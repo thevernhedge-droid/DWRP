@@ -9,4 +9,6 @@ Added weapon_cuff_elastic to Cyber Controlled
 Added Companions Category 
 Added Rose Tyler Job
 Added Amy Pond Job
+Added Fists to Rose Tyler Job
+Added Fists to Amy Pond Job
 Added Amy Pond Job
