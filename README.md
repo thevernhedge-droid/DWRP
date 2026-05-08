@@ -22,3 +22,5 @@ Added Raxacoricofallapatorian Category
 Added Slitheen Job
 Added Blathereen Job
 Added Slitheen Spawn
+Added Blathereen Spawn
+Added Jack Harkness Job
