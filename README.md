@@ -26,3 +26,4 @@ Added Blathereen Spawn
 Added Jack Harkness Job
 Added Jack Harkness Spawn
 Created a Vortex Manipulator Swep
+Added  Vortex Manipulator to Jack Harkness
