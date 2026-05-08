@@ -28,3 +28,5 @@ Added Jack Harkness Spawn
 Created a Vortex Manipulator Swep
 Added  Vortex Manipulator to Jack Harkness
 You Now Earn Xp from using the Slitheen SWEP
+Added Blathereen Swep
+Added Blathereen Swep To Blathereen
