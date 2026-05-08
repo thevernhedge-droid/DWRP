@@ -24,3 +24,4 @@ Added Blathereen Job
 Added Slitheen Spawn
 Added Blathereen Spawn
 Added Jack Harkness Job
+Added Jack Harkness Spawn
