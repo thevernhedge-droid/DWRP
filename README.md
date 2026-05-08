@@ -30,3 +30,4 @@ Added  Vortex Manipulator to Jack Harkness
 You Now Earn Xp from using the Slitheen SWEP
 Added Blathereen Swep
 Added Blathereen Swep To Blathereen
+Fixed Level = not showing above head
