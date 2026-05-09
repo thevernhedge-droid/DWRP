@@ -36,3 +36,4 @@ Changed Blathereen Job Slots from 1 to 3
 Added Sarah Jane Smith Job
 Added Zero´s RetroMiner ⛏️ (Mining Script)
 Added Miner Job
+Added Miner Models to Miner jobs
