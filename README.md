@@ -37,3 +37,4 @@ Added Sarah Jane Smith Job
 Added Zero´s RetroMiner ⛏️ (Mining Script)
 Added Miner Job
 Added Miner Models to Miner jobs
+Slitheen swep now diguises you as the job when using their skin
