@@ -33,3 +33,4 @@ Added Blathereen Swep To Blathereen
 Fixed Level = not showing above head
 Changed Slitheen Job Slots from 1 to 3
 Changed Blathereen Job Slots from 1 to 3
+Added Sarah Jane Smith Job
