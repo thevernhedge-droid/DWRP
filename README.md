@@ -42,3 +42,5 @@ Removed Default Printer
 Added Media Tv to f4 ents
 Fixed Tardis messing up when spawning [Missing Textures / Parts]
 Added 2010 TARDIS Extension
+Added The Please Her Box Chameleon Circuit
+Added 1966 Tardis Extension
