@@ -45,4 +45,6 @@ Added 2010 TARDIS Extension
 Added The Please Her Box Chameleon Circuit
 Added 1966 Tardis Extension
 Added 1963 TARDIS Extension
-Added Rani's TARDIS
+Added Rani's TARDIS 
+Created Sarah Jane's Scanner Watch 
+Added SJM Scanner Watch to Sarah Jane Job
