@@ -50,3 +50,4 @@ Created Sarah Jane's Scanner Watch
 Added SJM Scanner Watch to Sarah Jane Job
 Added Capaldi Extension 2021 
 Added Vortex Manipulator River Song Job
+Fixed Printers giving no XP
