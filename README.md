@@ -53,3 +53,4 @@ Added Vortex Manipulator River Song Job
 Fixed Printers giving no XP
 Printers Give more xp now
 Added a XP Boost to Printers
+Upped The amount of Xp when mining
