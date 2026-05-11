@@ -56,3 +56,4 @@ Added a XP Boost to Printers
 Upped The amount of Xp when mining
 Fixed that Timelords can only spawn 1 tardis
 Safe Zone Nolonger deletes Tardies
+Added Level to Scoreboard
