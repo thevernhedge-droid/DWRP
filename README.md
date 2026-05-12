@@ -64,3 +64,4 @@ Fixed FOB swep not letting Take human host
 Added Davros Job
 Added Davros to Dalek Agenda 
 Created Davros Swep
+Added Davros Spawn on Skaro
