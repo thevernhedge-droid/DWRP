@@ -60,3 +60,4 @@ Added Level to Scoreboard
 Added War Doctor's TARDIS
 Fixed Cyber Duping ragdoll when elecuting player
 In Human Form Family of blood get sfw_neutrino
+Fixed FOB swep not letting Take human host
