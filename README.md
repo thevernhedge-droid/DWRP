@@ -65,3 +65,4 @@ Added Davros Job
 Added Davros to Dalek Agenda 
 Created Davros Swep
 Added Davros Spawn on Skaro
+Created Cybus Industries Agenda
