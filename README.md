@@ -67,4 +67,4 @@ Created Davros Swep
 Added Davros Spawn on Skaro
 Created Cybus Industries Agenda
 Added War Doctor's TARDIS
-Added
+Added RUTH TARDIS extension (Fugitive of the Judoon) [WIP]
