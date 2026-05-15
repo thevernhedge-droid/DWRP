@@ -71,3 +71,5 @@ Added RUTH TARDIS extension (Fugitive of the Judoon) [WIP]
 Added The Monk's TARDIS
 Added The Monk Job
 Removed Zeros Masterchef
+Added Zeros PizzaMaker
+Added Brundoob's TARDIS Extension Remaster
