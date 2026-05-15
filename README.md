@@ -74,3 +74,4 @@ Removed Zeros Masterchef
 Added Zeros PizzaMaker
 Added Brundoob's TARDIS Extension Remaster
 Added so Zeros PizzaMaker Gives you XP aswell as money
+Added Improved Stacker
