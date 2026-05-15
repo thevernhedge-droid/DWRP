@@ -79,3 +79,4 @@ Added Billy's Logs
 Added Billy's Admin Sits
 Added Billy's Admin Physgun Enhancer
 Set Slitheen Model Scale to 1.2
+Set Blathereen Model Scale to 1.2
