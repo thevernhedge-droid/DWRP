@@ -94,3 +94,4 @@ Added Levels Back to scoreboard
 Fixed Slitheen oversized in skin suits
 Fixed level not updating on scoreboard
 Added Black Market Dealer Job
+Added Black Market Shipment
