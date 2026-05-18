@@ -84,3 +84,4 @@ Added Zeros GrowOP2
 Created Dalek Manipulator Arm 
 Added Dalek Manipulator Arm  to Daleks
 Added Rassilon Job
+Added Spawn for Rassilon
