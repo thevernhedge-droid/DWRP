@@ -85,3 +85,4 @@ Created Dalek Manipulator Arm
 Added Dalek Manipulator Arm  to Daleks
 Added Rassilon Job
 Added Spawn for Rassilon
+Upgraded Storage from 40 gb to 80GB
