@@ -90,3 +90,4 @@ Added sfw_lapis to The Monk
 Added weapon_cuff_elastic to The Monk
 Added sfw_lapis to Rassilon
 Added weapon_cuff_elastic to The Rassilon 
+Added Levels Back to scoreboard
