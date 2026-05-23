@@ -103,4 +103,5 @@ Buffed printer XP gain. Players now earn 2x XP from printer income and withdrawa
 Buffed pizza job XP gain by adding a global 2x XP multiplier to all Vrondakis pizza rewards.
 Buffed grow-op XP gain by adding a global 2x multiplier to harvest and sale XP rewards.
 Buffed RetroMiner XP gain by adding global 2x multipliers for both pickaxe progression and Vrondakis XP rewards.
+Added Vrondakis XP integration to BloodLab with rewards for sample collection, analysis, vaccine/cure crafting, curing players, and destroying virus nodes.
 
