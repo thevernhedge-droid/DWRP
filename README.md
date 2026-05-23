@@ -99,4 +99,5 @@ Added All Staff ranks to online staff In F4
 Maby Fixed Server breaking thanks to ryan
 Added Martha Jones Job
 Fixed Tardis door Portal not working
+Buffed printer XP gain. Players now earn 2x XP from printer income and withdrawals.
 
