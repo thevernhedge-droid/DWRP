@@ -100,4 +100,5 @@ Maby Fixed Server breaking thanks to ryan
 Added Martha Jones Job
 Fixed Tardis door Portal not working
 Buffed printer XP gain. Players now earn 2x XP from printer income and withdrawals.
+Buffed pizza job XP gain by adding a global 2x XP multiplier to all Vrondakis pizza rewards.
 
