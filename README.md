@@ -102,4 +102,5 @@ Fixed Tardis door Portal not working
 Buffed printer XP gain. Players now earn 2x XP from printer income and withdrawals.
 Buffed pizza job XP gain by adding a global 2x XP multiplier to all Vrondakis pizza rewards.
 Buffed grow-op XP gain by adding a global 2x multiplier to harvest and sale XP rewards.
+Buffed RetroMiner XP gain by adding global 2x multipliers for both pickaxe progression and Vrondakis XP rewards.
 
