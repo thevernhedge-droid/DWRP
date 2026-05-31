@@ -111,3 +111,4 @@ Increated Printer Racks limit to 2
 you can now fill 2 printer racks  
 Added VJ-BASE
 Added [VJ-BASE] 2000's Dalek SNPCs
+[VJ-BASE] 2000's Dalek SNPCs No longer attack Dalek Jobs
