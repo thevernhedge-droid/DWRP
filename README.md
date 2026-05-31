@@ -108,3 +108,4 @@ mple collection, analysis, vaccine/cure crafting, curing players, and destroying
 Added Mac's Quest System
 Added MAC's Simple NPCs
 Increated Printer Racks limit to 2
+you can now fill 2 printer racks  
