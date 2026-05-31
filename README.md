@@ -107,3 +107,4 @@ Added Vrondakis XP integration to BloodLab with rewards for sa
 mple collection, analysis, vaccine/cure crafting, curing players, and destroying virus nodes.
 Added Mac's Quest System
 Added MAC's Simple NPCs
+Increated Printer Racks limit to 2
