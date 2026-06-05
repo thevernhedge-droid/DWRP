@@ -125,3 +125,4 @@ Can now buy ammo for SciFi weapons
 Created Pantheon of Discord Category 
 Added Sutekh Job
 Added Sutekh Swep
+Sutekh still stays attached on top of the TARDIS, but their screen/view is no longer forced.
