@@ -123,3 +123,4 @@ Added a tardis key swep
 Added tardis key to timelord jobs 
 Can now buy ammo for SciFi weapons
 Created Pantheon of Discord Category 
+Added Sutekh Job
