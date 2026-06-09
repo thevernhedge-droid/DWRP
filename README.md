@@ -131,3 +131,4 @@ add to sutekh swep TARDIS corruption: while bound to a TARDIS, slowly drain its 
 Added The Trickster Job
 Increased Sutekh Size to 1.2
 Added weapon_trickster_swep to Trickster Job
+Added Trickster Bargain to weapon_trickster_swep
