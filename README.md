@@ -128,3 +128,4 @@ Added Sutekh Swep
 Sutekh still stays attached on top of the TARDIS, but their screen/view is no longer forced.
 Now if the TARDIS Sutekh is locked onto gets deleted/removed, the player is automatically released, movement is restored, and they get: The TARDIS vanished, breaking your grip.
 add to sutekh swep TARDIS corruption: while bound to a TARDIS, slowly drain its power/health or stop it dematerialising.
+Added The Trickster Job
