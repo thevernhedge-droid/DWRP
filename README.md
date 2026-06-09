@@ -130,3 +130,4 @@ Now if the TARDIS Sutekh is locked onto gets deleted/removed, the player is auto
 add to sutekh swep TARDIS corruption: while bound to a TARDIS, slowly drain its power/health or stop it dematerialising.
 Added The Trickster Job
 Increased Sutekh Size to 1.2
+Added weapon_trickster_swep to Trickster Job
