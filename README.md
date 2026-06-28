@@ -134,3 +134,4 @@ Added weapon_trickster_swep to Trickster Job
 Added Trickster Bargain to weapon_trickster_swep
 Added The Celestial Toymaker Job
 Fixed Toymaker Swep
+Toymaker cant use swep on fellow Pantheon of Discord
