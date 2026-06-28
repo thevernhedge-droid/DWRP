@@ -133,3 +133,4 @@ Increased Sutekh Size to 1.2
 Added weapon_trickster_swep to Trickster Job
 Added Trickster Bargain to weapon_trickster_swep
 Added The Celestial Toymaker Job
+Fixed Toymaker Swep
